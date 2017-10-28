@@ -12,6 +12,8 @@
 		B99547DA1FA4815900E93115 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B99547D81FA4815900E93115 /* Main.storyboard */; };
 		B99547DC1FA4815900E93115 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B99547DB1FA4815900E93115 /* Assets.xcassets */; };
 		B99547DF1FA4815900E93115 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B99547DD1FA4815900E93115 /* LaunchScreen.storyboard */; };
+		B99547E71FA4AD7C00E93115 /* FactProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99547E61FA4AD7C00E93115 /* FactProvider.swift */; };
+		B99547E91FA4F60100E93115 /* BackgroundColorProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99547E81FA4F60100E93115 /* BackgroundColorProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		B99547DB1FA4815900E93115 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B99547DE1FA4815900E93115 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B99547E01FA4815900E93115 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B99547E61FA4AD7C00E93115 /* FactProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactProvider.swift; sourceTree = "<group>"; };
+		B99547E81FA4F60100E93115 /* BackgroundColorProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundColorProvider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				B99547DB1FA4815900E93115 /* Assets.xcassets */,
 				B99547DD1FA4815900E93115 /* LaunchScreen.storyboard */,
 				B99547E01FA4815900E93115 /* Info.plist */,
+				B99547E61FA4AD7C00E93115 /* FactProvider.swift */,
+				B99547E81FA4F60100E93115 /* BackgroundColorProvider.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				B99547D71FA4815900E93115 /* ViewController.swift in Sources */,
 				B99547D51FA4815900E93115 /* AppDelegate.swift in Sources */,
+				B99547E91FA4F60100E93115 /* BackgroundColorProvider.swift in Sources */,
+				B99547E71FA4AD7C00E93115 /* FactProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
