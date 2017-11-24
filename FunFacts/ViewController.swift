@@ -3,7 +3,6 @@
 //  FunFacts
 //
 //  Created by Christian Bozhinov on 10/28/17.
-//  Copyright © 2017 Christian Bozhinov. All rights reserved.
 //
 // logic to control how the app works
 
